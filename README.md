@@ -15,10 +15,14 @@ Always learning and improving my skills! 🚀
 ---
 
 ## 🗣️ Languages & Tools 🛠️
-### Languages:
-- 🇪🇸 Spanish (Native)
-- 🇬🇧 English (Intermediate)
-- 🇫🇷 French (Basic)
+## 🌍 Languages
+
+| Idioma   | Nivel         | Bandera |
+|----------|-------------|---------|
+| 🇪🇸 **Español**  | Nativo        | ![Mexico](https://img.icons8.com/?size=100&id=UFGk2vu5rEkt&format=png&color=000000) |
+| 🇬🇧 **Inglés**   | Intermedio    | ![EU](https://img.icons8.com/?size=100&id=aRiu1GGi6Aoe&format=png&color=000000) |
+| 🇫🇷 **Francés**  | Básico        | ![French](https://img.icons8.com/?size=100&id=3muzEmi4dpD5&format=png&color=000000) |
+
 
 ### Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
