@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-Hi!, Olá!, Salut!, ¡Hola!, Bonjour!, Привет!, 你好!, こんにちは!, שלום!, 안녕하세요!, مرحبًا! 🖖 <br>
+Hi!, Olá!, Salut!, ¡Hola!,  Bonjour!,  Привет!,  你好!,  こんにちは!,  שלום!,  안녕하세요!,  مرحبًا! 🖖 <br>
 
 I'm a university student passionate about technology and software development.<br>
 Always learning and improving my skills! 🚀
