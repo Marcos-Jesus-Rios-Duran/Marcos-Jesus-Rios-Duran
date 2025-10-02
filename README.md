@@ -10,7 +10,7 @@ Always learning and improving my skills! 🚀
 ## 🎓 Education 📚
 - **University:** Universidad Tecnológica de Xicotepec de Juárez  
 - **Degree:** T.S.U. en Desarrollo de Software  
-- **Projects:** Destacado en el desarrollo del proyecto de Bienes Raíces utilizando Pug y MVC.
+- **Projects:** Módulo de configuración en un sistema multiplataforma. Proyecto que pertenece a el Instituto Nacional de Astrofísica Óptica y Electrónica (INAOE). 
 
 ---
 
