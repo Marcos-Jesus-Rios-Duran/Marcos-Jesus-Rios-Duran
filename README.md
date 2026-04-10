@@ -104,15 +104,27 @@ I specialize in **Software Craftsmanship**, applying **SOLID** principles, desig
 ---
 
 ## 📊 GitHub Stats & 🏆 Trophies
-![](https://github-readme-stats.vercel.app/api?username=Marcos-Jesus-Rios-Duran&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Marcos-Jesus-Rios-Duran&theme=gotham&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Jesus-Rios-Duran&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-profile-trophy.vercel.app/?username=Marcos-Jesus-Rios-Duran&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Marcos-Jesus-Rios-Duran&show_icons=true&theme=gotham&rank_icon=github&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Jesus-Rios-Duran&layout=compact&theme=gotham&hide_border=false" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marcos-Jesus-Rios-Duran&theme=gotham&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Marcos-Jesus-Rios-Duran&theme=radical&no-frame=false&margin-w=4" alt="Trophies" />
+</p>
 
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/marcos-jesús-rios-durán-15b036402)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/YOUR-USERNAME)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR-USERNAME)
 
