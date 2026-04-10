@@ -1,11 +1,18 @@
-# 👋 Hi!, Olá!, Salut!, ¡Hola!,  Bonjour!,  Привет!🖖
+# 👋 Hallo!, Hi!, Olá!, Salut!, ¡Hola!, Bonjour!, Привет! 🖖
 <br>
 
 # 💫 About Me
 
-Software Developer specializing in **mobile development (Flutter, Dart)** and web technologies (Node.js, Angular). I am currently finishing my Engineering degree after completing my Associate's Degree and a 4-month professional internship at the **National Institute of Astrophysics, Optics, and Electronics (INAOE)**.
+**Software Developer (T.S.U.) | Software Engineering Student @ UTXJ**
 
-I am passionate about building efficient, scalable, and user-friendly software solutions. Always learning and improving my skills! 🚀
+Focused on building scalable, real-world solutions driven by technical curiosity and a professional mindset. I am an Associate's Degree graduate currently finishing my Engineering degree, with professional experience as a Software Development Intern at the **National Institute of Astrophysics, Optics, and Electronics (INAOE)**.
+
+I specialize in **Software Craftsmanship**, applying **SOLID** principles, design patterns, and decoupled architectures (**MVC, MVVM**). I leverage professional workflows like **Gitflow** and **Feature-First** methodologies to ensure clean, maintainable, and high-quality code.
+
+- 🛡️ **Certified:** Azure AI Fundamentals & Google Cybersecurity (In progress).
+- 🧠 **Learning:** Refining my English and French, and currently starting my journey with **German** 🇩🇪.
+
+*"The code is the medium, solving problems with solid architecture is the goal."* 🚀
 
 <br>
 
