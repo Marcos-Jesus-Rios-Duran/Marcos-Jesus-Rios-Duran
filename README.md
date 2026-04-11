@@ -106,11 +106,11 @@ I specialize in **Software Craftsmanship**, applying **SOLID** principles, desig
 ## 📊 GitHub Stats & 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marcos-Jesus-Rios-Duran&show_icons=true&theme=gotham&rank_icon=github&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Marcos-Jesus-Rios-Duran&show_icons=true&theme=gotham&rank_icon=github&count_private=true&v=2" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Jesus-Rios-Duran&layout=compact&theme=gotham&hide_border=false" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Jesus-Rios-Duran&layout=compact&theme=gotham&hide_border=false&v=2" alt="Top Langs" />
 </p>
 
 <p align="center">
@@ -120,13 +120,10 @@ I specialize in **Software Craftsmanship**, applying **SOLID** principles, desig
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Marcos-Jesus-Rios-Duran&theme=radical&no-frame=false&margin-w=4" alt="Trophies" />
 </p>
-
 ---
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/marcos-jesús-rios-durán-15b036402)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/YOUR-USERNAME)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR-USERNAME)
 
 <br>
 
