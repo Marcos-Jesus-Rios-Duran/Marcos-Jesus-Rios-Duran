@@ -103,22 +103,23 @@ I specialize in **Software Craftsmanship**, applying **SOLID** principles, desig
 
 ---
 
+
 ## 📊 GitHub Stats & 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marcos-Jesus-Rios-Duran&show_icons=true&theme=gotham&rank_icon=github&count_private=true&v=2" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Marcos-Jesus-Rios-Duran&show_icons=true&theme=gotham&rank_icon=github&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Jesus-Rios-Duran&layout=compact&theme=gotham&hide_border=false&v=2" alt="Top Langs" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Marcos-Jesus-Rios-Duran&layout=compact&theme=gotham" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marcos-Jesus-Rios-Duran&theme=gotham&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marcos-Jesus-Rios-Duran&theme=gotham" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Marcos-Jesus-Rios-Duran&theme=radical&no-frame=false&margin-w=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Marcos-Jesus-Rios-Duran&theme=radical&no-frame=false&margin-w=4&v=4" alt="Trophies" />
 </p>
 ---
 
