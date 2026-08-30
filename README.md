@@ -13,9 +13,9 @@ I specialize in **Software Craftsmanship**, applying **SOLID principles**, **des
 
 | Certification | Issuer | Date | Link |
 |---|---|---|---|
-| 🏆 Azure AI Apps & Agents Developer Associate (AI-103) | Microsoft | Aug 2026 | [Verify](https://learn.microsoft.com/api/credentials/share/es-mx/marcosjesusriosduran-4079/8F83EE1DAE603F6A?sharingId=469A4AE0D907CE33) |
-| 🏆 Azure AI Fundamentals (AI-900) | Microsoft | Apr 2026 | [Verify](https://learn.microsoft.com/api/credentials/share/es-mx/marcosjesusriosduran-4079/4AE86F377CD55FA8?sharingId=469A4AE0D907CE33) |
-| 🏆 Azure Fundamentals (AZ-900) | Microsoft | Aug 2026 | [Verify](https://learn.microsoft.com/api/credentials/share/es-mx/marcosjesusriosduran-4079/B3A63E878689261C?sharingId=469A4AE0D907CE33) |
+| Azure AI Apps & Agents Developer Associate (AI-103) | Microsoft | Aug 2026 | [Verify](https://learn.microsoft.com/api/credentials/share/es-mx/marcosjesusriosduran-4079/8F83EE1DAE603F6A?sharingId=469A4AE0D907CE33) |
+| Azure AI Fundamentals (AI-900) | Microsoft | Apr 2026 | [Verify](https://learn.microsoft.com/api/credentials/share/es-mx/marcosjesusriosduran-4079/4AE86F377CD55FA8?sharingId=469A4AE0D907CE33) |
+| Azure Fundamentals (AZ-900) | Microsoft | Aug 2026 | [Verify](https://learn.microsoft.com/api/credentials/share/es-mx/marcosjesusriosduran-4079/B3A63E878689261C?sharingId=469A4AE0D907CE33) |
 
 **Studies & Training**
 - AWS Academy Graduate - Machine Learning Foundations
@@ -45,6 +45,10 @@ I specialize in **Software Craftsmanship**, applying **SOLID principles**, **des
 <br>
 
 ## Technical Skills
+### ⌚ Wearable & Smart Devices Development
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![Wear OS](https://img.shields.io/badge/Wear%20OS-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![Smart TV](https://img.shields.io/badge/Smart%20TV-000000?style=for-the-badge)
 
 ### 📱 Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
@@ -115,11 +119,11 @@ I specialize in **Software Craftsmanship**, applying **SOLID principles**, **des
 
 <br>
 
-## Education
+## 🎓Education
 
 **Universidad Tecnológica de Xicotepec de Juárez (UTXJ)**
-- 🎓 B.Eng. in Software Development and Management (Currently pursuing) | Sep 2025 - Present
-- 🎓 Associate's Degree (T.S.U.) in Multiplatform Software Development | Sep 2023 - Aug 2025 | GPA: 9.2/10
+- B.Eng. in Software Development and Management (Currently pursuing) | Sep 2025 - Present
+- Associate's Degree (T.S.U.) in Multiplatform Software Development | Sep 2023 - Aug 2025 | GPA: 9.2/10
 
 Relevant Coursework: Software Architecture, Database Design, Advanced OOP, Security Principles, Cloud Computing, ML Fundamentals
 
@@ -139,7 +143,7 @@ Relevant Coursework: Software Architecture, Database Design, Advanced OOP, Secur
 - Multi-platform healthcare solution connecting patients, doctors, and administrators
 - Architected backend using Python and databases (MySQL, MongoDB)
 - Designed responsive frontends with Vue.js and modern CSS frameworks
-- Mobile versions with Flutter/Dart and wearable app with Jetpack Compose (RBAC, 2FA)
+- Mobile app with Flutter/Dart for phones, smartwatch/wearable app with Jetpack Compose for watch devices, TV app (RBAC, 2FA)
 - Secure authentication, encryption, and HIPAA-compliant data protection
 - Tech Stack: Python, Vue, Flutter, Dart, Jetpack Compose, MySQL, MongoDB, JWT, RSA Encryption
 
@@ -163,14 +167,12 @@ Relevant Coursework: Software Architecture, Database Design, Advanced OOP, Secur
 
 ## Languages
 
-| Language | Level | Proficiency |
+| Flag | Language | Level |
 |---|---|---|
-| 🇪🇸 Spanish | Native | Full fluency |
-| 🇺🇸 English | B1 (Intermediate) | Technical & professional communication |
-| 🇫🇷 French | A2 (Basic) | Learning in progress |
-| 🇩🇪 German | A1 (Beginner) | Recently started |
-
-<br>
+| <img src="https://flagcdn.com/20x15/mx.png" width="20" alt="MX"> | Spanish | Native |
+| <img src="https://flagcdn.com/20x15/us.png" width="20" alt="US"> | English | B1 (Intermediate) |
+| <img src="https://flagcdn.com/20x15/fr.png" width="20" alt="FR"> | French | A2 (Basic) |
+| <img src="https://flagcdn.com/20x15/de.png" width="20" alt="DE"> | German | A1 (Beginner) |
 
 ## Hobbies & Interests
 
@@ -205,4 +207,8 @@ Relevant Coursework: Software Architecture, Database Design, Advanced OOP, Secur
 
 <p align="center">
   <strong>Always learning, always building. Let's create something amazing together!</strong>
+</p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Marcos-Jesus-Rios-Duran&icon=0&color=0" alt="Visit Count"/>
 </p>
